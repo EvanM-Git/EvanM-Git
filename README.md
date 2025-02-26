@@ -5,16 +5,15 @@
 
 ## Habilidades técnicas
 - **Lenguajes de programación**: 
-  - Python (básico/intermedio)
-  - Java (básico/intermedio)
+  - Python (básico)
+  - Java (básico)
   - Rust (aprendiendo)
 - **Herramientas**: 
   - Git y GitHub
-  - Terminal/Consola
+  - Consola (Bash y Zsh)
 - **Intereses**: 
   - Desarrollo de software
   - Aprendizaje de lenguajes de programación
-  - Colaboración en proyectos de código abierto
 
 ## Proyectos
 Actualmente estoy en fase de aprendizaje, por lo que no tengo proyectos destacados aún. ¡Pero estoy emocionado por empezar a trabajar en algunos pronto! Si tienes alguna idea o quieres colaborar, no dudes en contactarme.
