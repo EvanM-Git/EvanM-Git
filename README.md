@@ -6,8 +6,11 @@
 ## 💻 Habilidades técnicas
 - **Lenguajes de programación**: 
   - 🐍 Python (básico)
-  - ☕ Java: Continuando despues de una larga decisión
-  - ~~🦀 Rust (aprendiendo)~~
+- ☕ **Java**
+  - Básico
+  - Continuando después de una larga decisión
+- ~~🦀 **Rust**~~
+  - ~~Aprendiendo~~
 - **Herramientas**: 
   - 🛠️ Git y GitHub
   - 💻 Consola (Bash y Zsh)
