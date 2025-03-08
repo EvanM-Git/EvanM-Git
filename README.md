@@ -4,13 +4,8 @@
 ¡Hola! Soy EvanM, un entusiasta del aprendizaje autodidacta y la programación. Actualmente, estoy explorando el mundo del desarrollo de software como hobby, y me encanta aprender nuevas tecnologías y lenguajes de programación. Mi objetivo es mejorar mis habilidades y, en el futuro, contribuir a proyectos interesantes. 🚀
 
 ## 💻 Habilidades técnicas
-- **Lenguajes de programación**: 
-  - 🐍 Python (básico)
-- ☕ **Java**
-  - Básico
-  - Continuando después de una larga decisión
-- ~~🦀 **Rust**~~
-  - ~~Aprendiendo~~
+- **Lenguajes de programación**:
+   - Aprendiendo C
 - **Herramientas**: 
   - 🛠️ Git y GitHub
   - 💻 Consola (Bash y Zsh)
