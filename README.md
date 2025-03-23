@@ -5,7 +5,7 @@
 
 ## 💻 Habilidades técnicas
 - **Lenguajes de programación**:
-   - Aprendiendo C
+   - Aprendiendo Rust (Finalmente)
 - **Herramientas**: 
   - 🛠️ Git y GitHub
   - 💻 Consola (Bash y Zsh)
